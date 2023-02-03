@@ -1,0 +1,2 @@
+# Airbnb website
+Cloning this website for practice my HTML and CSS skills
